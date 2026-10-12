@@ -1,4 +1,7 @@
 import collection from './puzzles.json' with {type:'json'};
+import photoCollection from './photo-puzzles.json' with {type:'json'};
+export const EDITION='iconic-video-v1';
+export const VIDEO_START='2026-10-12';
 export const DURATION=30;
 export const ROUNDS=3;
 export const ARCHIVE_START='2026-10-06';
@@ -32,4 +35,4 @@ export function score(seconds,mistakes){return Math.max(0,Math.round(1000*(1-Mat
 export function frameIndex(seconds,count){return Math.min(count-1,Math.floor(Math.max(0,seconds)/DURATION*(count-1)));}
 export function archiveDates(today){const dates=[];for(let d=Date.parse(today+'T00:00:00Z')-86400000;d>=Date.parse(ARCHIVE_START+'T00:00:00Z')&&dates.length<60;d-=86400000)dates.push(dayKey(new Date(d)));return dates;}
 
-export function dailyObjects(date){const first=puzzleIndex(date);return Array.from({length:ROUNDS},(_,i)=>objects[(first+i)%objects.length]);}
+export function dailyObjects(date){const list=date<VIDEO_START?photoCollection:objects;const first=((Math.floor(Date.parse(date+'T00:00:00Z')/86400000)%list.length)+list.length)%list.length;return Array.from({length:ROUNDS},(_,i)=>list[(first+i)%list.length]);}

@@ -1,6 +1,6 @@
 # Odd Angle
 
-Three daily rounds, 30 seconds each. Guess real objects as their viewpoint changes from rear or side toward the front. Seven Amazon Berkeley Objects turntable sequences are included: 13 real photographs per object, stepping every 2.5 seconds. No synthetic rendering or zoom-out effects.
+Three daily rounds, 30 seconds each. Recognize iconic landmarks in smooth real video clips: Eiffel Tower, Statue of Liberty, Colosseum and Big Ben. Shorter footage is slowed with motion-interpolated frames so each round runs continuously without looping. Earlier object-photo puzzles remain in the archive.
 
 ## Windows: play without installation
 
@@ -22,7 +22,7 @@ npm run build
 npm start
 ```
 
-Optional server configuration: `PORT` changes the listening port; `ODD_ANGLE_DATA_DIR` sets the persistent data directory (default `.data`). Keep that directory on persistent storage to retain the leaderboard. One Node server instance is supported. Static-only hosting supports offline play, but cannot host the shared leaderboard.
+Optional server configuration: `PORT` changes the listening port; `ODD_ANGLE_DATA_DIR` sets the persistent data directory (default `.data`). Keep that directory on persistent storage to retain the leaderboard. One Node server instance is supported. Score data is edition-specific: `.data/daily-iconic-video-v1.json`. Static-only hosting supports offline play, but cannot host the shared leaderboard.
 
 Run `npm test` for daily selection, three-round scoring, frame selection, archive boundaries, and server verification/persistence checks. Regenerate the standalone version after changes with `npm run build` then `python3 scripts/export-standalone.py`.
 
@@ -35,9 +35,9 @@ Run `npm test` for daily selection, three-round scoring, frame selection, archiv
 - Complete all rounds before optional name submission to the daily leaderboard.
 - Archive and replay are practice; they do not replace daily results or submit scores.
 
-The server validates answers, elapsed time, penalties and the aggregate score. Browser identity is an anonymous local ID, not an account: clearing storage can create another identity. This prototype has no strong anti-cheat, moderation or production abuse protection. Seven objects repeat; expand the curated collection for launch. Archive dates follow the same daily schedule beginning 2026-10-06; they do not claim historic play records.
+The server validates answers, elapsed time, penalties and the aggregate score. Browser identity is an anonymous local ID, not an account: clearing storage can create another identity. This prototype has no strong anti-cheat, moderation or production abuse protection. Four iconic landmarks repeat; expand the curated collection for launch. Archive dates follow the same daily schedule beginning 2026-10-06; they do not claim historic play records.
 
-## Photo credits
+## Media credits
 
 Photos © Amazon.com, licensed under CC BY 4.0. Dataset creators: Matthieu Guillaumin, Thomas Dideriksen, Kenan Deng, Himanshu Arora, Jasmine Collins and Jitendra Malik. Selected images were resized/recompressed and their viewpoints reordered. See `public/media/SOURCES.md`, `manifest.json` and `LICENSE-CC-BY-4.0.txt` for provenance and license. The in-game credits also include attribution and a license link.
 
@@ -45,6 +45,8 @@ Photos © Amazon.com, licensed under CC BY 4.0. Dataset creators: Matthieu Guill
 
 Rounds can now provide a `video` URL, a `poster` image, and an optional `clipStart` in seconds instead of `frames`. Clips must have at least 30 playable seconds after clipStart. The player fully downloads a clip before enabling play, then uses normal continuous video playback. No 3D or photo-sequence interpolation is involved. MP4 and WebM are supported when the browser can decode their codecs; compatible web formats should be curated. The standalone exporter embeds bundled videos under public/media/videos.
 
-Real footage sourcing is pending network access to commons.wikimedia.org and upload.wikimedia.org. The existing photo collection remains active until licensed clips have been downloaded and inspected. No test-pattern videos are included in the game.
+Real footage has been sourced from Wikimedia Commons and inspected. Daily rounds now use video. No test-pattern videos are included.
 
 Guesses accept listed alternate names, spacing/punctuation variations, and small spelling mistakes. Names with at least four characters accept one edit (including swapped adjacent letters); names of eight or more characters accept two. Very short names require exact spelling to avoid accepting unrelated words. The same matcher runs on the client and score server.
+
+Video credits: Mikani (Eiffel Tower, CC BY-SA 4.0); Burkouri (Statue of Liberty, CC0); Quahadi (Colosseum, CC BY 4.0); Deror avi (Big Ben, CC BY-SA 4.0). Source links and editing details are in public/media/videos/sources.json and SOURCES.md and the in-game credits. Adapted clips retain each source license. This starter collection includes straightforward views; difficulty can be curated with additional footage.

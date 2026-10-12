@@ -1,9 +1,9 @@
 import {randomUUID} from 'node:crypto';
 import {mkdirSync,existsSync,readFileSync,writeFileSync,renameSync} from 'node:fs';
 import {join} from 'node:path';
-import {DURATION,ROUNDS,dayKey,dailyObjects,isCorrect,score} from '../src/game.js';
+import {DURATION,ROUNDS,dayKey,dailyObjects,isCorrect,score,EDITION} from '../src/game.js';
 export function createApi({dataDir=process.env.ODD_ANGLE_DATA_DIR||'.data',now=()=>Date.now()}={}){
- mkdirSync(dataDir,{recursive:true});const file=join(dataDir,'daily.json');let players=existsSync(file)?JSON.parse(readFileSync(file,'utf8')):[];
+ mkdirSync(dataDir,{recursive:true});const file=join(dataDir,'daily-'+EDITION+'.json');let players=existsSync(file)?JSON.parse(readFileSync(file,'utf8')):[];
  function save(){const tmp=file+'.tmp';writeFileSync(tmp,JSON.stringify(players));renameSync(tmp,file);}
  function send(res,status,data){res.statusCode=status;res.setHeader('Content-Type','application/json');res.setHeader('Cache-Control','no-store');res.end(JSON.stringify(data));}
  async function body(req){let value='';for await(const chunk of req){value+=chunk;if(value.length>4096)throw Error('Request too large');}return JSON.parse(value||'{}');}
