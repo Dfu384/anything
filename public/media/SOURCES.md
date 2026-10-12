@@ -1,8 +1,9 @@
-# Demo media
+# Amazon Berkeley Objects photographs
 
-fruit.jpg: OpenCV sample data, downloaded from https://raw.githubusercontent.com/opencv/opencv/4.x/samples/data/fruits.jpg
-Repository: https://github.com/opencv/opencv (Apache-2.0). This is a development sample; independently review media rights before a public launch.
+Images © Amazon.com, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Full license: LICENSE-CC-BY-4.0.txt. https://creativecommons.org/licenses/by/4.0/
 
-The shipped demo animates a crop of a real photograph. It is not footage of a camera moving around an object. Local uploaded videos are never sent to a server.
+Dataset creators: Matthieu Guillaumin (Amazon.com), Thomas Dideriksen (Amazon.com), Kenan Deng (Amazon.com), Himanshu Arora (Amazon.com), Jasmine Collins (UC Berkeley), and Jitendra Malik (UC Berkeley).
 
-baboon.jpg and building.jpg: https://raw.githubusercontent.com/opencv/opencv/4.x/samples/data/baboon.jpg and https://raw.githubusercontent.com/opencv/opencv/4.x/samples/data/building.jpg. Same repository provenance; individual photo rights need review before public distribution.
+Source: https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/README.md
+
+Downloaded selected real turntable photographs from spins/original/. All selected frames, source URLs, original image IDs, spin IDs and azimuth indices are recorded in manifest.json. Seven sequences, 13 views each, from 180° through 0° in 15° increments. We resized images to fit 1000×800 and recompressed JPEGs; gameplay reverses their original order. No 3D models or synthetic viewpoints are used. Source files are offered as-is; see the license for the warranty disclaimer. No endorsement by Amazon.com is implied.

@@ -1,0 +1,639 @@
+[
+  {
+    "local": "/media/angles/16b3706f/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_36.jpg",
+    "imageId": "51zZEIUScQL",
+    "spinId": "16b3706f",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/16b3706f/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_33.jpg",
+    "imageId": "51xhln5pxYL",
+    "spinId": "16b3706f",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/16b3706f/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_30.jpg",
+    "imageId": "51Z30yuyOyL",
+    "spinId": "16b3706f",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/16b3706f/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_27.jpg",
+    "imageId": "51ADLyzU+xL",
+    "spinId": "16b3706f",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/16b3706f/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_24.jpg",
+    "imageId": "41NGHPsE7TL",
+    "spinId": "16b3706f",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/16b3706f/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_21.jpg",
+    "imageId": "51TY+Fp9T7L",
+    "spinId": "16b3706f",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/16b3706f/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_18.jpg",
+    "imageId": "51DF82v6POL",
+    "spinId": "16b3706f",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/16b3706f/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_15.jpg",
+    "imageId": "51U28wqoNTL",
+    "spinId": "16b3706f",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/16b3706f/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_12.jpg",
+    "imageId": "51gWjGeFBrL",
+    "spinId": "16b3706f",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/16b3706f/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_09.jpg",
+    "imageId": "51C9BYHD+ZL",
+    "spinId": "16b3706f",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/16b3706f/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_06.jpg",
+    "imageId": "519dUXfqatL",
+    "spinId": "16b3706f",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/16b3706f/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_03.jpg",
+    "imageId": "51AMQK4kNDL",
+    "spinId": "16b3706f",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/16b3706f/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/16/16b3706f/16b3706f_00.jpg",
+    "imageId": "51cD22gMIML",
+    "spinId": "16b3706f",
+    "azimuth": 0
+  },
+  {
+    "local": "/media/angles/d9d43690/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_36.jpg",
+    "imageId": "617zbSKoSJL",
+    "spinId": "d9d43690",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/d9d43690/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_33.jpg",
+    "imageId": "61uptTqXiXL",
+    "spinId": "d9d43690",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/d9d43690/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_30.jpg",
+    "imageId": "61Yc22JFa6L",
+    "spinId": "d9d43690",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/d9d43690/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_27.jpg",
+    "imageId": "61AbcMbIJxL",
+    "spinId": "d9d43690",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/d9d43690/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_24.jpg",
+    "imageId": "61FT+47t3+L",
+    "spinId": "d9d43690",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/d9d43690/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_21.jpg",
+    "imageId": "61N9xmjdMsL",
+    "spinId": "d9d43690",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/d9d43690/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_18.jpg",
+    "imageId": "61bbdrJqwxL",
+    "spinId": "d9d43690",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/d9d43690/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_15.jpg",
+    "imageId": "61WK-MtBl3L",
+    "spinId": "d9d43690",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/d9d43690/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_12.jpg",
+    "imageId": "61oHfHGaBHL",
+    "spinId": "d9d43690",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/d9d43690/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_09.jpg",
+    "imageId": "61AC67yd53L",
+    "spinId": "d9d43690",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/d9d43690/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_06.jpg",
+    "imageId": "611o3JPsx0L",
+    "spinId": "d9d43690",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/d9d43690/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_03.jpg",
+    "imageId": "61kepabu1PL",
+    "spinId": "d9d43690",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/d9d43690/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d9/d9d43690/d9d43690_00.jpg",
+    "imageId": "61+PSJ6T05L",
+    "spinId": "d9d43690",
+    "azimuth": 0
+  },
+  {
+    "local": "/media/angles/37e510bd/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_36.jpg",
+    "imageId": "41GnkyATCjL",
+    "spinId": "37e510bd",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/37e510bd/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_33.jpg",
+    "imageId": "41RhX890OeL",
+    "spinId": "37e510bd",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/37e510bd/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_30.jpg",
+    "imageId": "41XoX39hFfL",
+    "spinId": "37e510bd",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/37e510bd/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_27.jpg",
+    "imageId": "411SvFvPY5L",
+    "spinId": "37e510bd",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/37e510bd/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_24.jpg",
+    "imageId": "41XBO0XxrjL",
+    "spinId": "37e510bd",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/37e510bd/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_21.jpg",
+    "imageId": "41H0RUtvcFL",
+    "spinId": "37e510bd",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/37e510bd/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_18.jpg",
+    "imageId": "41O+3csy50L",
+    "spinId": "37e510bd",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/37e510bd/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_15.jpg",
+    "imageId": "41hCLnvZZML",
+    "spinId": "37e510bd",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/37e510bd/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_12.jpg",
+    "imageId": "41-Z0IVJDAL",
+    "spinId": "37e510bd",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/37e510bd/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_09.jpg",
+    "imageId": "41iGx4i8z6L",
+    "spinId": "37e510bd",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/37e510bd/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_06.jpg",
+    "imageId": "41ywhGgzkuL",
+    "spinId": "37e510bd",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/37e510bd/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_03.jpg",
+    "imageId": "41JROJvULqL",
+    "spinId": "37e510bd",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/37e510bd/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/37/37e510bd/37e510bd_00.jpg",
+    "imageId": "41IYT5dA92L",
+    "spinId": "37e510bd",
+    "azimuth": 0
+  },
+  {
+    "local": "/media/angles/d4d2f748/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_36.jpg",
+    "imageId": "61FJLCBv7uL",
+    "spinId": "d4d2f748",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/d4d2f748/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_33.jpg",
+    "imageId": "61DkuSBQ7kL",
+    "spinId": "d4d2f748",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/d4d2f748/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_30.jpg",
+    "imageId": "51-yjMgHzUL",
+    "spinId": "d4d2f748",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/d4d2f748/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_27.jpg",
+    "imageId": "51L968mAIIL",
+    "spinId": "d4d2f748",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/d4d2f748/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_24.jpg",
+    "imageId": "51HizA83DHL",
+    "spinId": "d4d2f748",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/d4d2f748/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_21.jpg",
+    "imageId": "513HoGAWNeL",
+    "spinId": "d4d2f748",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/d4d2f748/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_18.jpg",
+    "imageId": "61KL6xGpXZL",
+    "spinId": "d4d2f748",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/d4d2f748/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_15.jpg",
+    "imageId": "617RH-L2XuL",
+    "spinId": "d4d2f748",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/d4d2f748/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_12.jpg",
+    "imageId": "61fQsM-Z9rL",
+    "spinId": "d4d2f748",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/d4d2f748/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_09.jpg",
+    "imageId": "61Kw0YgqKAL",
+    "spinId": "d4d2f748",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/d4d2f748/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_06.jpg",
+    "imageId": "61S3+47NU7L",
+    "spinId": "d4d2f748",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/d4d2f748/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_03.jpg",
+    "imageId": "61spO76FVUL",
+    "spinId": "d4d2f748",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/d4d2f748/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/d4/d4d2f748/d4d2f748_00.jpg",
+    "imageId": "619NjK3gPuL",
+    "spinId": "d4d2f748",
+    "azimuth": 0
+  },
+  {
+    "local": "/media/angles/6856d2a7/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_36.jpg",
+    "imageId": "51oNfv8+CsL",
+    "spinId": "6856d2a7",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/6856d2a7/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_33.jpg",
+    "imageId": "51iJ6OD9GGL",
+    "spinId": "6856d2a7",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/6856d2a7/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_30.jpg",
+    "imageId": "511mVi-FoNL",
+    "spinId": "6856d2a7",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/6856d2a7/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_27.jpg",
+    "imageId": "51BhjeiTyRL",
+    "spinId": "6856d2a7",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/6856d2a7/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_24.jpg",
+    "imageId": "41hjiOfJy+L",
+    "spinId": "6856d2a7",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/6856d2a7/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_21.jpg",
+    "imageId": "51yCFe-Z3yL",
+    "spinId": "6856d2a7",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/6856d2a7/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_18.jpg",
+    "imageId": "51teVTDT2NL",
+    "spinId": "6856d2a7",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/6856d2a7/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_15.jpg",
+    "imageId": "518sqkGQMzL",
+    "spinId": "6856d2a7",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/6856d2a7/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_12.jpg",
+    "imageId": "51FPicnmclL",
+    "spinId": "6856d2a7",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/6856d2a7/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_09.jpg",
+    "imageId": "51Z9Y9AzDVL",
+    "spinId": "6856d2a7",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/6856d2a7/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_06.jpg",
+    "imageId": "51iUs4mjK1L",
+    "spinId": "6856d2a7",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/6856d2a7/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_03.jpg",
+    "imageId": "51s2o-npwiL",
+    "spinId": "6856d2a7",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/6856d2a7/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/68/6856d2a7/6856d2a7_00.jpg",
+    "imageId": "515VGb6mS9L",
+    "spinId": "6856d2a7",
+    "azimuth": 0
+  },
+  {
+    "local": "/media/angles/9d2d6634/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_36.jpg",
+    "imageId": "51rj7xuLM3L",
+    "spinId": "9d2d6634",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/9d2d6634/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_33.jpg",
+    "imageId": "51wCV86Js3L",
+    "spinId": "9d2d6634",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/9d2d6634/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_30.jpg",
+    "imageId": "5128K9oSbnL",
+    "spinId": "9d2d6634",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/9d2d6634/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_27.jpg",
+    "imageId": "51FBBJa1NmL",
+    "spinId": "9d2d6634",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/9d2d6634/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_24.jpg",
+    "imageId": "51bWtxPJsgL",
+    "spinId": "9d2d6634",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/9d2d6634/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_21.jpg",
+    "imageId": "51ZWc1bxv4L",
+    "spinId": "9d2d6634",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/9d2d6634/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_18.jpg",
+    "imageId": "512PwfwleOL",
+    "spinId": "9d2d6634",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/9d2d6634/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_15.jpg",
+    "imageId": "51ZXIOsEdBL",
+    "spinId": "9d2d6634",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/9d2d6634/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_12.jpg",
+    "imageId": "51IPmOcli2L",
+    "spinId": "9d2d6634",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/9d2d6634/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_09.jpg",
+    "imageId": "51DBQ3rSMjL",
+    "spinId": "9d2d6634",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/9d2d6634/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_06.jpg",
+    "imageId": "51hCUQA0XZL",
+    "spinId": "9d2d6634",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/9d2d6634/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_03.jpg",
+    "imageId": "513Y3E7vh6L",
+    "spinId": "9d2d6634",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/9d2d6634/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/9d/9d2d6634/9d2d6634_00.jpg",
+    "imageId": "51ej4QtwIjL",
+    "spinId": "9d2d6634",
+    "azimuth": 0
+  },
+  {
+    "local": "/media/angles/7f9de40e/36.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_36.jpg",
+    "imageId": "61uKQ2WsS6L",
+    "spinId": "7f9de40e",
+    "azimuth": 36
+  },
+  {
+    "local": "/media/angles/7f9de40e/33.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_33.jpg",
+    "imageId": "61gtPt0aF5L",
+    "spinId": "7f9de40e",
+    "azimuth": 33
+  },
+  {
+    "local": "/media/angles/7f9de40e/30.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_30.jpg",
+    "imageId": "61aX7JQ+9mL",
+    "spinId": "7f9de40e",
+    "azimuth": 30
+  },
+  {
+    "local": "/media/angles/7f9de40e/27.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_27.jpg",
+    "imageId": "51MgQi8utsL",
+    "spinId": "7f9de40e",
+    "azimuth": 27
+  },
+  {
+    "local": "/media/angles/7f9de40e/24.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_24.jpg",
+    "imageId": "51-MRn+5+KL",
+    "spinId": "7f9de40e",
+    "azimuth": 24
+  },
+  {
+    "local": "/media/angles/7f9de40e/21.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_21.jpg",
+    "imageId": "51wTcLxEhqL",
+    "spinId": "7f9de40e",
+    "azimuth": 21
+  },
+  {
+    "local": "/media/angles/7f9de40e/18.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_18.jpg",
+    "imageId": "51kS0pauFYL",
+    "spinId": "7f9de40e",
+    "azimuth": 18
+  },
+  {
+    "local": "/media/angles/7f9de40e/15.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_15.jpg",
+    "imageId": "61D+a-IWEmL",
+    "spinId": "7f9de40e",
+    "azimuth": 15
+  },
+  {
+    "local": "/media/angles/7f9de40e/12.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_12.jpg",
+    "imageId": "61d2oQSSXcL",
+    "spinId": "7f9de40e",
+    "azimuth": 12
+  },
+  {
+    "local": "/media/angles/7f9de40e/09.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_09.jpg",
+    "imageId": "61TL2YlvaKL",
+    "spinId": "7f9de40e",
+    "azimuth": 9
+  },
+  {
+    "local": "/media/angles/7f9de40e/06.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_06.jpg",
+    "imageId": "610SqQXcY7L",
+    "spinId": "7f9de40e",
+    "azimuth": 6
+  },
+  {
+    "local": "/media/angles/7f9de40e/03.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_03.jpg",
+    "imageId": "61BhnnZ9-7L",
+    "spinId": "7f9de40e",
+    "azimuth": 3
+  },
+  {
+    "local": "/media/angles/7f9de40e/00.jpg",
+    "source": "https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/spins/original/7f/7f9de40e/7f9de40e_00.jpg",
+    "imageId": "611HP7GjwoL",
+    "spinId": "7f9de40e",
+    "azimuth": 0
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "16b3706f",
+    "name": "Office chair",
+    "aliases": [
+      "office chair",
+      "chair",
+      "desk chair",
+      "computer chair",
+      "swivel chair"
+    ],
+    "frames": [
+      "/media/angles/16b3706f/36.jpg",
+      "/media/angles/16b3706f/33.jpg",
+      "/media/angles/16b3706f/30.jpg",
+      "/media/angles/16b3706f/27.jpg",
+      "/media/angles/16b3706f/24.jpg",
+      "/media/angles/16b3706f/21.jpg",
+      "/media/angles/16b3706f/18.jpg",
+      "/media/angles/16b3706f/15.jpg",
+      "/media/angles/16b3706f/12.jpg",
+      "/media/angles/16b3706f/09.jpg",
+      "/media/angles/16b3706f/06.jpg",
+      "/media/angles/16b3706f/03.jpg",
+      "/media/angles/16b3706f/00.jpg"
+    ]
+  },
+  {
+    "id": "d9d43690",
+    "name": "Nightstand",
+    "aliases": [
+      "nightstand",
+      "night stand",
+      "bedside table",
+      "bedside cabinet",
+      "dresser",
+      "chest of drawers",
+      "cabinet",
+      "drawers"
+    ],
+    "frames": [
+      "/media/angles/d9d43690/36.jpg",
+      "/media/angles/d9d43690/33.jpg",
+      "/media/angles/d9d43690/30.jpg",
+      "/media/angles/d9d43690/27.jpg",
+      "/media/angles/d9d43690/24.jpg",
+      "/media/angles/d9d43690/21.jpg",
+      "/media/angles/d9d43690/18.jpg",
+      "/media/angles/d9d43690/15.jpg",
+      "/media/angles/d9d43690/12.jpg",
+      "/media/angles/d9d43690/09.jpg",
+      "/media/angles/d9d43690/06.jpg",
+      "/media/angles/d9d43690/03.jpg",
+      "/media/angles/d9d43690/00.jpg"
+    ]
+  },
+  {
+    "id": "37e510bd",
+    "name": "Desk lamp",
+    "aliases": [
+      "desk lamp",
+      "lamp",
+      "table lamp",
+      "light"
+    ],
+    "frames": [
+      "/media/angles/37e510bd/36.jpg",
+      "/media/angles/37e510bd/33.jpg",
+      "/media/angles/37e510bd/30.jpg",
+      "/media/angles/37e510bd/27.jpg",
+      "/media/angles/37e510bd/24.jpg",
+      "/media/angles/37e510bd/21.jpg",
+      "/media/angles/37e510bd/18.jpg",
+      "/media/angles/37e510bd/15.jpg",
+      "/media/angles/37e510bd/12.jpg",
+      "/media/angles/37e510bd/09.jpg",
+      "/media/angles/37e510bd/06.jpg",
+      "/media/angles/37e510bd/03.jpg",
+      "/media/angles/37e510bd/00.jpg"
+    ]
+  },
+  {
+    "id": "d4d2f748",
+    "name": "Bed",
+    "aliases": [
+      "bed",
+      "bed frame",
+      "bedframe"
+    ],
+    "frames": [
+      "/media/angles/d4d2f748/36.jpg",
+      "/media/angles/d4d2f748/33.jpg",
+      "/media/angles/d4d2f748/30.jpg",
+      "/media/angles/d4d2f748/27.jpg",
+      "/media/angles/d4d2f748/24.jpg",
+      "/media/angles/d4d2f748/21.jpg",
+      "/media/angles/d4d2f748/18.jpg",
+      "/media/angles/d4d2f748/15.jpg",
+      "/media/angles/d4d2f748/12.jpg",
+      "/media/angles/d4d2f748/09.jpg",
+      "/media/angles/d4d2f748/06.jpg",
+      "/media/angles/d4d2f748/03.jpg",
+      "/media/angles/d4d2f748/00.jpg"
+    ]
+  },
+  {
+    "id": "6856d2a7",
+    "name": "Mirror",
+    "aliases": [
+      "mirror",
+      "standing mirror",
+      "floor mirror"
+    ],
+    "frames": [
+      "/media/angles/6856d2a7/36.jpg",
+      "/media/angles/6856d2a7/33.jpg",
+      "/media/angles/6856d2a7/30.jpg",
+      "/media/angles/6856d2a7/27.jpg",
+      "/media/angles/6856d2a7/24.jpg",
+      "/media/angles/6856d2a7/21.jpg",
+      "/media/angles/6856d2a7/18.jpg",
+      "/media/angles/6856d2a7/15.jpg",
+      "/media/angles/6856d2a7/12.jpg",
+      "/media/angles/6856d2a7/09.jpg",
+      "/media/angles/6856d2a7/06.jpg",
+      "/media/angles/6856d2a7/03.jpg",
+      "/media/angles/6856d2a7/00.jpg"
+    ]
+  },
+  {
+    "id": "9d2d6634",
+    "name": "Sofa",
+    "aliases": [
+      "sofa",
+      "couch",
+      "settee"
+    ],
+    "frames": [
+      "/media/angles/9d2d6634/36.jpg",
+      "/media/angles/9d2d6634/33.jpg",
+      "/media/angles/9d2d6634/30.jpg",
+      "/media/angles/9d2d6634/27.jpg",
+      "/media/angles/9d2d6634/24.jpg",
+      "/media/angles/9d2d6634/21.jpg",
+      "/media/angles/9d2d6634/18.jpg",
+      "/media/angles/9d2d6634/15.jpg",
+      "/media/angles/9d2d6634/12.jpg",
+      "/media/angles/9d2d6634/09.jpg",
+      "/media/angles/9d2d6634/06.jpg",
+      "/media/angles/9d2d6634/03.jpg",
+      "/media/angles/9d2d6634/00.jpg"
+    ]
+  },
+  {
+    "id": "7f9de40e",
+    "name": "TV stand",
+    "aliases": [
+      "bookshelf",
+      "book shelf",
+      "shelf",
+      "shelves",
+      "bookcase",
+      "shelving unit",
+      "tv stand",
+      "media console",
+      "console",
+      "cabinet",
+      "tv unit",
+      "entertainment center",
+      "media cabinet",
+      "tv cabinet",
+      "shelving",
+      "storage unit"
+    ],
+    "frames": [
+      "/media/angles/7f9de40e/36.jpg",
+      "/media/angles/7f9de40e/33.jpg",
+      "/media/angles/7f9de40e/30.jpg",
+      "/media/angles/7f9de40e/27.jpg",
+      "/media/angles/7f9de40e/24.jpg",
+      "/media/angles/7f9de40e/21.jpg",
+      "/media/angles/7f9de40e/18.jpg",
+      "/media/angles/7f9de40e/15.jpg",
+      "/media/angles/7f9de40e/12.jpg",
+      "/media/angles/7f9de40e/09.jpg",
+      "/media/angles/7f9de40e/06.jpg",
+      "/media/angles/7f9de40e/03.jpg",
+      "/media/angles/7f9de40e/00.jpg"
+    ]
+  }
+]

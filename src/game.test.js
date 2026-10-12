@@ -1,6 +1,8 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {dayKey,puzzleIndex,score,isCorrect,objects} from './game.js';
-test('daily key uses UTC and sample selection is deterministic',()=>{assert.equal(dayKey(new Date('2026-10-12T23:59:59Z')),'2026-10-12');assert.equal(puzzleIndex('2026-10-12'),puzzleIndex('2026-10-12'));assert.notEqual(puzzleIndex('2026-10-12'),puzzleIndex('2026-10-13'));});
-test('scoring rewards speed and penalizes mistakes without negative scores',()=>{assert.equal(score(3,0),850);assert.equal(score(3,1),800);assert.equal(score(20,0),0);assert.equal(score(19,4),0);});
-test('guesses accept synonyms, capitalization and punctuation',()=>{assert.ok(isCorrect(' Fruit! ',objects[0]));assert.ok(!isCorrect('hammer',objects[0]));});
+import {DURATION,ROUNDS,dayKey,dailyObjects,frameIndex,archiveDates,score,isCorrect,objects} from './game.js';
+test('daily set has three distinct objects and stable UTC dates',()=>{assert.equal(DURATION,30);assert.equal(ROUNDS,3);assert.equal(dayKey(new Date('2026-10-12T23:59:59Z')),'2026-10-12');const set=dailyObjects('2026-10-12');assert.equal(new Set(set.map(o=>o.id)).size,3);assert.deepEqual(set,dailyObjects('2026-10-12'));assert.notDeepEqual(set,dailyObjects('2026-10-13'));});
+test('30-second scoring rewards speed, penalizes mistakes and clamps at zero',()=>{assert.equal(score(3,0),900);assert.equal(score(3,1),850);assert.equal(score(30,0),0);assert.equal(score(29,4),0);});
+test('guesses accept everyday names and punctuation',()=>{assert.ok(isCorrect(' Desk CHAIR! ',objects[0]));assert.ok(!isCorrect('hammer',objects[0]));});
+test('photo sequence changes at 2.5-second intervals and ends on familiar view',()=>{assert.equal(frameIndex(0,13),0);assert.equal(frameIndex(2.49,13),0);assert.equal(frameIndex(2.5,13),1);assert.equal(frameIndex(15,13),6);assert.equal(frameIndex(30,13),12);assert.equal(frameIndex(99,13),12);});
+test('archive excludes today and future dates',()=>{const dates=archiveDates('2026-10-12');assert.equal(dates.length,6);assert.equal(dates[0],'2026-10-11');assert.equal(dates.at(-1),'2026-10-06');assert.deepEqual(archiveDates('2026-10-06'),[]);});

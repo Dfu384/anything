@@ -1,26 +1,42 @@
 # Odd Angle
 
-A daily real-photo recognition game. A tight crop gradually zooms out over 20 seconds. Faster correct guesses earn more points; each wrong guess costs 50. No video or 3D rendering required.
+Three daily rounds, 30 seconds each. Guess real objects as their viewpoint changes from rear or side toward the front. Seven Amazon Berkeley Objects turntable sequences are included: 13 real photographs per object, stepping every 2.5 seconds. No synthetic rendering or zoom-out effects.
 
-## Play on Windows
+## Windows: play without installation
 
-On GitHub, select **Code → Download ZIP**. Right-click the downloaded ZIP and select **Extract All**. Open the extracted folder and double-click **PLAY.html** in Edge or Chrome. No Node.js installation is needed for this version. Browser storage for local files may vary; use the development server for reliable result persistence.
+Download the repository ZIP from GitHub, extract it, and double-click **PLAY.html**. This standalone version supports all three rounds, the archive and local scores. The shared leaderboard requires the server version.
 
-Regenerate the standalone file after changes with `npm run build` followed by `python3 scripts/export-standalone.py`.
+## Development and shared leaderboard
 
-## Run
-
-Requires Node.js 20.19+ or 22.12+.
+Requires Node.js 22.12+ (Node.js 24 tested).
 
 ```sh
 npm ci --cache /workspace/.npm-cache
 npm run dev
 ```
 
-Open the development server on port 5173. `npm test` checks daily selection, synonyms, and scoring. `npm run build` creates the production bundle; `npm run preview` serves it.
+The development server hosts the game and score API on port 5173. For production:
 
-## Current collection
+```sh
+npm run build
+npm start
+```
 
-Three locally bundled real photographs rotate daily at midnight UTC: fruit, a baboon, and a building. These are OpenCV development samples. See public/media/SOURCES.md for provenance. The reveal is an animated crop, not a physical change in viewpoint. Review individual media rights and expand the collection before public release.
+Optional server configuration: `PORT` changes the listening port; `ODD_ANGLE_DATA_DIR` sets the persistent data directory (default `.data`). Keep that directory on persistent storage to retain the leaderboard. One Node server instance is supported. Static-only hosting supports offline play, but cannot host the shared leaderboard.
 
-Daily results persist in this browser. Practice does not overwrite them. Client-side answers and scores are not cheat-resistant; no accounts or leaderboard are provided. Hidden-tab time counts.
+Run `npm test` for daily selection, three-round scoring, frame selection, archive boundaries, and server verification/persistence checks. Regenerate the standalone version after changes with `npm run build` then `python3 scripts/export-standalone.py`.
+
+## Rules
+
+- Each round starts with 1,000 possible points; they decrease across 30 seconds.
+- Every wrong guess costs 50 points. Timeouts score zero.
+- Three different objects per daily set, maximum 3,000 total points.
+- Everyone gets the same UTC-dated set. Hidden-tab and reload time counts for server rounds.
+- Complete all rounds before optional name submission to the daily leaderboard.
+- Archive and replay are practice; they do not replace daily results or submit scores.
+
+The server validates answers, elapsed time, penalties and the aggregate score. Browser identity is an anonymous local ID, not an account: clearing storage can create another identity. This prototype has no strong anti-cheat, moderation or production abuse protection. Seven objects repeat; expand the curated collection for launch. Archive dates follow the same daily schedule beginning 2026-10-06; they do not claim historic play records.
+
+## Photo credits
+
+Photos © Amazon.com, licensed under CC BY 4.0. Dataset creators: Matthieu Guillaumin, Thomas Dideriksen, Kenan Deng, Himanshu Arora, Jasmine Collins and Jitendra Malik. Selected images were resized/recompressed and their viewpoints reordered. See `public/media/SOURCES.md`, `manifest.json` and `LICENSE-CC-BY-4.0.txt` for provenance and license. The in-game credits also include attribution and a license link.
