@@ -40,3 +40,11 @@ The server validates answers, elapsed time, penalties and the aggregate score. B
 ## Photo credits
 
 Photos © Amazon.com, licensed under CC BY 4.0. Dataset creators: Matthieu Guillaumin, Thomas Dideriksen, Kenan Deng, Himanshu Arora, Jasmine Collins and Jitendra Malik. Selected images were resized/recompressed and their viewpoints reordered. See `public/media/SOURCES.md`, `manifest.json` and `LICENSE-CC-BY-4.0.txt` for provenance and license. The in-game credits also include attribution and a license link.
+
+## Video-ready rounds and forgiving guesses
+
+Rounds can now provide a `video` URL, a `poster` image, and an optional `clipStart` in seconds instead of `frames`. Clips must have at least 30 playable seconds after clipStart. The player fully downloads a clip before enabling play, then uses normal continuous video playback. No 3D or photo-sequence interpolation is involved. MP4 and WebM are supported when the browser can decode their codecs; compatible web formats should be curated. The standalone exporter embeds bundled videos under public/media/videos.
+
+Real footage sourcing is pending network access to commons.wikimedia.org and upload.wikimedia.org. The existing photo collection remains active until licensed clips have been downloaded and inspected. No test-pattern videos are included in the game.
+
+Guesses accept listed alternate names, spacing/punctuation variations, and small spelling mistakes. Names with at least four characters accept one edit (including swapped adjacent letters); names of eight or more characters accept two. Very short names require exact spelling to avoid accepting unrelated words. The same matcher runs on the client and score server.

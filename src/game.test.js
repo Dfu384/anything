@@ -6,3 +6,11 @@ test('30-second scoring rewards speed, penalizes mistakes and clamps at zero',()
 test('guesses accept everyday names and punctuation',()=>{assert.ok(isCorrect(' Desk CHAIR! ',objects[0]));assert.ok(!isCorrect('hammer',objects[0]));});
 test('photo sequence changes at 2.5-second intervals and ends on familiar view',()=>{assert.equal(frameIndex(0,13),0);assert.equal(frameIndex(2.49,13),0);assert.equal(frameIndex(2.5,13),1);assert.equal(frameIndex(15,13),6);assert.equal(frameIndex(30,13),12);assert.equal(frameIndex(99,13),12);});
 test('archive excludes today and future dates',()=>{const dates=archiveDates('2026-10-12');assert.equal(dates.length,6);assert.equal(dates[0],'2026-10-11');assert.equal(dates.at(-1),'2026-10-06');assert.deepEqual(archiveDates('2026-10-06'),[]);});
+
+test('close guesses accept misspellings without accepting fragments or unrelated words',()=>{
+ assert.ok(isCorrect('chiar',objects[0]));assert.ok(isCorrect('ofice chiar',objects[0]));
+ assert.ok(isCorrect('night stand',objects[1]));assert.ok(isCorrect('nighstand',objects[1]));
+ assert.ok(!isCorrect('air',objects[0]));assert.ok(!isCorrect('',objects[0]));
+ assert.ok(!isCorrect('bad',objects[3]));assert.ok(!isCorrect('table',objects[0]));
+ assert.ok(isCorrect('waterfal',{name:'Waterfall',aliases:['waterfall']}));
+});
