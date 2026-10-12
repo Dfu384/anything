@@ -1,0 +1,52 @@
+[
+  {
+    "id": "eiffel",
+    "name": "Eiffel Tower",
+    "aliases": [
+      "eiffel tower",
+      "eiffel",
+      "the eiffel tower",
+      "tour eiffel"
+    ],
+    "video": "/media/videos/classic/eiffel.mp4",
+    "poster": "/media/videos/classic/eiffel.jpg"
+  },
+  {
+    "id": "liberty",
+    "name": "Statue of Liberty",
+    "aliases": [
+      "statue of liberty",
+      "liberty statue",
+      "lady liberty",
+      "the statue of liberty"
+    ],
+    "video": "/media/videos/classic/liberty.mp4",
+    "poster": "/media/videos/classic/liberty.jpg"
+  },
+  {
+    "id": "colosseum",
+    "name": "Colosseum",
+    "aliases": [
+      "colosseum",
+      "coliseum",
+      "roman colosseum",
+      "rome colosseum",
+      "the colosseum"
+    ],
+    "video": "/media/videos/classic/colosseum.mp4",
+    "poster": "/media/videos/classic/colosseum.jpg"
+  },
+  {
+    "id": "bigben",
+    "name": "Big Ben",
+    "aliases": [
+      "big ben",
+      "bigben",
+      "elizabeth tower",
+      "clock tower of london",
+      "london clock tower"
+    ],
+    "video": "/media/videos/classic/bigben.mp4",
+    "poster": "/media/videos/classic/bigben.jpg"
+  }
+]

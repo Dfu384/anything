@@ -1,104 +1,115 @@
 [
   {
-    "title": "File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
-    "page": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
-    "bytes": 18243917,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Mikani\" title=\"User:Mikani\">Mikani</a>",
-    "description": "Videos of Eiffel Tower from the Champ de Mars.",
     "id": "eiffel",
     "name": "Eiffel Tower",
-    "aliases": [
-      "eiffel tower",
-      "eiffel",
-      "the eiffel tower",
-      "tour eiffel"
+    "angleDescription": "You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.",
+    "license": "CC BY-SA 4.0",
+    "sources": [
+      {
+        "title": "File:Eiffel Tower lift - mute.webm",
+        "artist": "Christopher.Michel from San Francisco, USA",
+        "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_lift_-_mute.webm",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      },
+      {
+        "title": "File:Eiffel Tower Drone 4k-Qx c1X3zfEc-313-251.webm",
+        "artist": "the Dronalist",
+        "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Drone_4k-Qx_c1X3zfEc-313-251.webm",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      },
+      {
+        "title": "File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm",
+        "artist": "Mikani",
+        "source": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     ],
-    "video": "/media/videos/eiffel.mp4",
-    "poster": "/media/videos/eiffel.jpg",
-    "sourceDuration": 54.888,
     "duration": 30.4,
-    "speedFactor": 1,
-    "artistText": "Mikani",
-    "changes": "Audio removed; excerpted, resized and recompressed. Shorter clips slowed with motion-interpolated frames."
+    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "segments": [
+      {
+        "start": 0,
+        "duration": 16
+      },
+      {
+        "start": 173,
+        "duration": 11
+      },
+      {
+        "start": 8,
+        "duration": 5.4
+      }
+    ]
   },
   {
-    "title": "File:View of Statue of Liberty on a Boat.webm",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/View_of_Statue_of_Liberty_on_a_Boat.webm",
-    "page": "https://commons.wikimedia.org/wiki/File:View_of_Statue_of_Liberty_on_a_Boat.webm",
-    "bytes": 10566019,
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Burkouri&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Burkouri (page does not exist)\">Burkouri</a>",
-    "description": "View of Statue of Liberty from a Boat",
     "id": "liberty",
     "name": "Statue of Liberty",
-    "aliases": [
-      "statue of liberty",
-      "liberty statue",
-      "lady liberty",
-      "the statue of liberty"
+    "angleDescription": "You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.",
+    "license": "CC BY 3.0",
+    "sources": [
+      {
+        "title": "File:Statue Of Liberty 4k Drone.webm",
+        "artist": "the Dronalist",
+        "source": "https://commons.wikimedia.org/wiki/File:Statue_Of_Liberty_4k_Drone.webm",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
     ],
-    "video": "/media/videos/liberty.mp4",
-    "poster": "/media/videos/liberty.jpg",
-    "sourceDuration": 16.144,
     "duration": 30.4,
-    "speedFactor": 1.900712767287733,
-    "artistText": "Burkouri",
-    "changes": "Audio removed; excerpted, resized and recompressed. Shorter clips slowed with motion-interpolated frames."
+    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "segments": [
+      {
+        "start": 122,
+        "duration": 30.4
+      }
+    ]
   },
   {
-    "title": "File:Colosseum, Rome 113323.webm",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Colosseum%2C_Rome_113323.webm",
-    "page": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome_113323.webm",
-    "bytes": 11507251,
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Quahadi\" title=\"User:Quahadi\">Quahadi</a>",
-    "description": "Rimski koloseum",
-    "id": "colosseum",
-    "name": "Colosseum",
-    "aliases": [
-      "colosseum",
-      "coliseum",
-      "roman colosseum",
-      "rome colosseum",
-      "the colosseum"
-    ],
-    "video": "/media/videos/colosseum.mp4",
-    "poster": "/media/videos/colosseum.jpg",
-    "sourceDuration": 29.323,
-    "duration": 30.4,
-    "speedFactor": 1.0420594385219208,
-    "artistText": "Quahadi",
-    "changes": "Audio removed; excerpted, resized and recompressed. Shorter clips slowed with motion-interpolated frames."
-  },
-  {
-    "title": "File:Big Ben MVI 1834.webm",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Big_Ben_MVI_1834.webm",
-    "page": "https://commons.wikimedia.org/wiki/File:Big_Ben_MVI_1834.webm",
-    "bytes": 2290997,
+    "id": "goldengate",
+    "name": "Golden Gate Bridge",
+    "angleDescription": "You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.",
     "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Deror_avi\" title=\"User:Deror avi\">Deror avi</a>",
-    "description": "Big Ben, Elizabeth's Tower, London",
-    "id": "bigben",
-    "name": "Big Ben",
-    "aliases": [
-      "big ben",
-      "bigben",
-      "elizabeth tower",
-      "clock tower of london",
-      "london clock tower"
+    "sources": [
+      {
+        "title": "File:Drive over Golden Gate Bridge 2013.ogv",
+        "artist": "Tuxyso",
+        "source": "https://commons.wikimedia.org/wiki/File:Drive_over_Golden_Gate_Bridge_2013.ogv",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      {
+        "title": "File:Sunset under the Golden Gate Bridge, February 10 2025.webm",
+        "artist": "SnowShoes8",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunset_under_the_Golden_Gate_Bridge,_February_10_2025.webm",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      {
+        "title": "File:Golden Gate Bridge Timelapse.webm",
+        "artist": "Eugenia Loli",
+        "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Timelapse.webm",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
     ],
-    "video": "/media/videos/bigben.mp4",
-    "poster": "/media/videos/bigben.jpg",
-    "sourceDuration": 27.664,
-    "duration": 30.4,
-    "speedFactor": 1.1048920549538415,
-    "artistText": "Deror avi",
-    "changes": "Audio removed; excerpted, resized and recompressed. Shorter clips slowed with motion-interpolated frames."
+    "duration": 30.366667,
+    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "segments": [
+      {
+        "start": 0,
+        "duration": 16
+      },
+      {
+        "start": 9,
+        "duration": 11
+      },
+      {
+        "start": 10,
+        "duration": 5.4
+      }
+    ]
   }
 ]

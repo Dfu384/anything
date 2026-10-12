@@ -8,45 +8,76 @@
       "the eiffel tower",
       "tour eiffel"
     ],
+    "angleDescription": "You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.",
     "video": "/media/videos/eiffel.mp4",
-    "poster": "/media/videos/eiffel.jpg"
+    "poster": "/media/videos/eiffel.jpg",
+    "clues": [
+      {
+        "at": 0,
+        "label": "UNFAMILIAR VIEW"
+      },
+      {
+        "at": 15,
+        "label": "MORE CONTEXT"
+      },
+      {
+        "at": 26,
+        "label": "FINAL VIEW"
+      }
+    ]
   },
   {
     "id": "liberty",
     "name": "Statue of Liberty",
     "aliases": [
       "statue of liberty",
-      "liberty statue",
       "lady liberty",
+      "liberty statue",
       "the statue of liberty"
     ],
+    "angleDescription": "You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.",
     "video": "/media/videos/liberty.mp4",
-    "poster": "/media/videos/liberty.jpg"
+    "poster": "/media/videos/liberty.jpg",
+    "clues": [
+      {
+        "at": 0,
+        "label": "UNFAMILIAR VIEW"
+      },
+      {
+        "at": 15,
+        "label": "MORE CONTEXT"
+      },
+      {
+        "at": 26,
+        "label": "FINAL VIEW"
+      }
+    ]
   },
   {
-    "id": "colosseum",
-    "name": "Colosseum",
+    "id": "goldengate",
+    "name": "Golden Gate Bridge",
     "aliases": [
-      "colosseum",
-      "coliseum",
-      "roman colosseum",
-      "rome colosseum",
-      "the colosseum"
+      "golden gate bridge",
+      "golden gate",
+      "the golden gate bridge",
+      "goldengatebridge"
     ],
-    "video": "/media/videos/colosseum.mp4",
-    "poster": "/media/videos/colosseum.jpg"
-  },
-  {
-    "id": "bigben",
-    "name": "Big Ben",
-    "aliases": [
-      "big ben",
-      "bigben",
-      "elizabeth tower",
-      "clock tower of london",
-      "london clock tower"
-    ],
-    "video": "/media/videos/bigben.mp4",
-    "poster": "/media/videos/bigben.jpg"
+    "angleDescription": "You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.",
+    "video": "/media/videos/goldengate.mp4",
+    "poster": "/media/videos/goldengate.jpg",
+    "clues": [
+      {
+        "at": 0,
+        "label": "UNFAMILIAR VIEW"
+      },
+      {
+        "at": 15,
+        "label": "MORE CONTEXT"
+      },
+      {
+        "at": 26,
+        "label": "FINAL VIEW"
+      }
+    ]
   }
 ]

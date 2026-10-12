@@ -1,6 +1,6 @@
 import collection from './puzzles.json' with {type:'json'};
 import photoCollection from './photo-puzzles.json' with {type:'json'};
-export const EDITION='iconic-video-v1';
+export const EDITION='hard-angles-v1';
 export const VIDEO_START='2026-10-12';
 export const DURATION=30;
 export const ROUNDS=3;

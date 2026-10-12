@@ -1,6 +1,23 @@
 [
   {
     "name": "Eiffel Tower",
+    "title": "File:Eiffel Tower lift - mute.webm",
+    "artist": "Christopher.Michel from San Francisco, USA",
+    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_lift_-_mute.webm",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "name": "Eiffel Tower",
+    "title": "File:Eiffel Tower Drone 4k-Qx c1X3zfEc-313-251.webm",
+    "artist": "the Dronalist",
+    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Drone_4k-Qx_c1X3zfEc-313-251.webm",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "name": "Eiffel Tower",
+    "title": "File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm",
     "artist": "Mikani",
     "source": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
     "license": "CC BY-SA 4.0",
@@ -8,23 +25,34 @@
   },
   {
     "name": "Statue of Liberty",
-    "artist": "Burkouri",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_Statue_of_Liberty_on_a_Boat.webm",
-    "license": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    "title": "File:Statue Of Liberty 4k Drone.webm",
+    "artist": "the Dronalist",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue_Of_Liberty_4k_Drone.webm",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   },
   {
-    "name": "Colosseum",
-    "artist": "Quahadi",
-    "source": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome_113323.webm",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    "name": "Golden Gate Bridge",
+    "title": "File:Drive over Golden Gate Bridge 2013.ogv",
+    "artist": "Tuxyso",
+    "source": "https://commons.wikimedia.org/wiki/File:Drive_over_Golden_Gate_Bridge_2013.ogv",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
-    "name": "Big Ben",
-    "artist": "Deror avi",
-    "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_MVI_1834.webm",
+    "name": "Golden Gate Bridge",
+    "title": "File:Sunset under the Golden Gate Bridge, February 10 2025.webm",
+    "artist": "SnowShoes8",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_under_the_Golden_Gate_Bridge,_February_10_2025.webm",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "title": "File:Golden Gate Bridge Timelapse.webm",
+    "artist": "Eugenia Loli",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Timelapse.webm",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   }
 ]

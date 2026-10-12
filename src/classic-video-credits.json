@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Eiffel Tower (classic)",
+    "artist": "Mikani",
+    "source": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "name": "Statue of Liberty (classic)",
+    "artist": "Burkouri",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Statue_of_Liberty_on_a_Boat.webm",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "name": "Colosseum (classic)",
+    "artist": "Quahadi",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome_113323.webm",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "name": "Big Ben (classic)",
+    "artist": "Deror avi",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_MVI_1834.webm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+]

@@ -11,6 +11,6 @@ test('close guesses accept misspellings without accepting fragments or unrelated
  assert.ok(isCorrect('eifel tower',objects[0]));assert.ok(isCorrect('eifel towr',objects[0]));
  assert.ok(isCorrect('lady liberty',objects[1]));assert.ok(isCorrect('statue of libery',objects[1]));
  assert.ok(!isCorrect('air',objects[0]));assert.ok(!isCorrect('',objects[0]));
- assert.ok(!isCorrect('bad',objects[3]));assert.ok(!isCorrect('table',objects[0]));
+ assert.ok(!isCorrect('bad',{name:'Bed',aliases:['bed']}));assert.ok(!isCorrect('table',objects[0]));
  assert.ok(isCorrect('waterfal',{name:'Waterfall',aliases:['waterfall']}));
 });
