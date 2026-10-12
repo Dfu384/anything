@@ -1,6 +1,6 @@
 # Odd Angle
 
-Three daily rounds, 30 seconds each. The harder collection starts with genuinely unfamiliar recorded viewpoints of the Eiffel Tower, Statue of Liberty and Golden Gate Bridge. Each reveal becomes recognizable near the end. Real footage is edited with smooth transitions; no digital perspective warps, zoom-out substitutes or 3D renders are used. Earlier landmark videos and object-photo puzzles remain available for archive practice.
+Three daily rounds, 30 seconds each. The current Explorer collection features Sagrada Familia, Stonehenge and Tower Bridge: recognizable travel landmarks with less obvious opening views. Earlier iconic hard-angle videos, classic landmark videos and object-photo puzzles remain available for archive practice. Real recorded viewpoints are joined with smooth transitions.
 
 ## Windows: play without installation
 
@@ -22,7 +22,7 @@ npm run build
 npm start
 ```
 
-Optional server configuration: `PORT` changes the listening port; `ODD_ANGLE_DATA_DIR` sets the persistent data directory (default `.data`). Keep that directory on persistent storage to retain the leaderboard. One Node server instance is supported. Score data is edition-specific: `.data/daily-hard-angles-v1.json`. Static-only hosting supports offline play, but cannot host the shared leaderboard.
+Optional server configuration: `PORT` changes the listening port; `ODD_ANGLE_DATA_DIR` sets the persistent data directory (default `.data`). Keep that directory on persistent storage to retain the leaderboard. One Node server instance is supported. Score data is edition-specific: `.data/daily-explorer-angles-v1.json`. Static-only hosting supports offline play, but cannot host the shared leaderboard.
 
 Run `npm test` for daily selection, three-round scoring, frame selection, archive boundaries, and server verification/persistence checks. Regenerate the standalone version after changes with `npm run build` then `python3 scripts/export-standalone.py`.
 
@@ -35,7 +35,7 @@ Run `npm test` for daily selection, three-round scoring, frame selection, archiv
 - Complete all rounds before optional name submission to the daily leaderboard.
 - Archive and replay are practice; they do not replace daily results or submit scores.
 
-The server validates answers, elapsed time, penalties and the aggregate score. Browser identity is an anonymous local ID, not an account: clearing storage can create another identity. This prototype has no strong anti-cheat, moderation or production abuse protection. The three-landmark hard collection repeats; expand curated footage for launch. The original easier collection is preserved as classic practice. Archive dates follow the same daily schedule beginning 2026-10-06; they do not claim historic play records.
+The server validates answers, elapsed time, penalties and the aggregate score. Browser identity is an anonymous local ID, not an account: clearing storage can create another identity. This prototype has no strong anti-cheat, moderation or production abuse protection. The three-landmark Explorer collection repeats; expand curated footage for launch. Earlier landmark collections are preserved as practice. Archive dates follow the same daily schedule beginning 2026-10-06; they do not claim historic play records.
 
 ## Media credits
 
@@ -51,10 +51,16 @@ Guesses accept listed alternate names, spacing/punctuation variations, and small
 
 Classic collection credits: Mikani (Eiffel Tower, CC BY-SA 4.0); Burkouri (Statue of Liberty, CC0); Quahadi (Colosseum, CC BY 4.0); Deror avi (Big Ben, CC BY-SA 4.0). Source links and editing details are in public/media/videos/sources.json and SOURCES.md and the in-game credits. Adapted clips retain each source license. This starter collection includes straightforward views; difficulty can be curated with additional footage.
 
-## Hard-angle curation
+## Iconic archive curation
 
 - Eiffel Tower: begin inside its elevator among the girders; transition to a high drone view, then to the familiar exterior.
 - Statue of Liberty: a real drone sequence starts at the stone pedestal, moves up the robes and over the crown, and finishes near the torch and face.
 - Golden Gate Bridge: begin looking sideways through cables from a passing car; transition to a sunset silhouette and the recognizable red span.
 
 The Eiffel Tower and Golden Gate sequences use one-second crossfades between different recordings. They do not claim to be a single continuous camera path. Each round ends on a fair, recognizable view. The timer, three-round total, typo tolerance and leaderboard rules are unchanged. The new hard edition uses separate score storage, preserving previous edition records. Sources, licensing and precise excerpt timings are in public/media/videos/sources.json. The original videos are in public/media/videos/classic and can be replayed from the archive.
+
+## Explorer collection
+
+Current daily subjects are Sagrada Familia, Stonehenge and Tower Bridge. Sagrada Familia accepts common alternatives such as “Sagrada” and “Gaudi church”; spelling tolerance remains unchanged. The collection uses real footage of the actual named sites. A search result for another Holy Family church was explicitly excluded. Source footage may be historical and lower-resolution; filming dates and original assets can be reviewed via the recorded source links.
+
+The archive offers the previous iconic hard-angle set through `?collection=iconic` and the original easier videos through `?collection=classic`. Both are practice only. They cannot submit scores or overwrite daily results. Score storage is edition-specific, preserving previous edition files.

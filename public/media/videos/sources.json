@@ -1,115 +1,109 @@
 [
   {
-    "id": "eiffel",
-    "name": "Eiffel Tower",
-    "angleDescription": "You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.",
-    "license": "CC BY-SA 4.0",
+    "id": "sagrada",
+    "name": "Sagrada Familia",
     "sources": [
       {
-        "title": "File:Eiffel Tower lift - mute.webm",
-        "artist": "Christopher.Michel from San Francisco, USA",
-        "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_lift_-_mute.webm",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
-      },
-      {
-        "title": "File:Eiffel Tower Drone 4k-Qx c1X3zfEc-313-251.webm",
-        "artist": "the Dronalist",
-        "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Drone_4k-Qx_c1X3zfEc-313-251.webm",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
-      },
-      {
-        "title": "File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm",
-        "artist": "Mikani",
-        "source": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-      }
-    ],
-    "duration": 30.4,
-    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
-    "segments": [
-      {
-        "start": 0,
-        "duration": 16
-      },
-      {
-        "start": 173,
-        "duration": 11
-      },
-      {
-        "start": 8,
-        "duration": 5.4
-      }
-    ]
-  },
-  {
-    "id": "liberty",
-    "name": "Statue of Liberty",
-    "angleDescription": "You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.",
-    "license": "CC BY 3.0",
-    "sources": [
-      {
-        "title": "File:Statue Of Liberty 4k Drone.webm",
-        "artist": "the Dronalist",
-        "source": "https://commons.wikimedia.org/wiki/File:Statue_Of_Liberty_4k_Drone.webm",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
-      }
-    ],
-    "duration": 30.4,
-    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
-    "segments": [
-      {
-        "start": 122,
-        "duration": 30.4
-      }
-    ]
-  },
-  {
-    "id": "goldengate",
-    "name": "Golden Gate Bridge",
-    "angleDescription": "You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.",
-    "license": "CC BY-SA 4.0",
-    "sources": [
-      {
-        "title": "File:Drive over Golden Gate Bridge 2013.ogv",
-        "artist": "Tuxyso",
-        "source": "https://commons.wikimedia.org/wiki/File:Drive_over_Golden_Gate_Bridge_2013.ogv",
+        "title": "File:SagradaFamilia.ogv",
+        "artist": "Ian Sewell",
+        "source": "https://commons.wikimedia.org/wiki/File:SagradaFamilia.ogv",
         "license": "CC BY-SA 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    ],
+    "angleDescription": "You began among its branching interior columns, then saw architectural details before the characteristic spires.",
+    "license": "CC BY-SA 4.0",
+    "duration": 30.4,
+    "segments": [
+      {
+        "start": 33,
+        "duration": 16
       },
       {
-        "title": "File:Sunset under the Golden Gate Bridge, February 10 2025.webm",
-        "artist": "SnowShoes8",
-        "source": "https://commons.wikimedia.org/wiki/File:Sunset_under_the_Golden_Gate_Bridge,_February_10_2025.webm",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        "start": 20,
+        "duration": 11
       },
       {
-        "title": "File:Golden Gate Bridge Timelapse.webm",
-        "artist": "Eugenia Loli",
-        "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Timelapse.webm",
+        "start": 14,
+        "duration": 5.4
+      }
+    ],
+    "edits": "Real recorded views, selected and reordered with one-second crossfades. Muted, resized and re-encoded at 30 fps. No generated perspectives or digital zoom-out substitute."
+  },
+  {
+    "id": "stonehenge",
+    "name": "Stonehenge",
+    "sources": [
+      {
+        "title": "File:Stonehenge.ogv",
+        "artist": "McKarri at de.wikipedia",
+        "source": "https://commons.wikimedia.org/wiki/File:Stonehenge.ogv",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "title": "File:Stonehenge at Sunrise - by Drone..webm",
+        "artist": "Benjamin Kenobi",
+        "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm",
         "license": "CC BY 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
       }
     ],
-    "duration": 30.366667,
-    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "angleDescription": "You began with a close view of the Heel Stone, then saw the monument from above before its familiar standing-stone arrangement.",
+    "license": "CC BY-SA 4.0",
+    "duration": 30.4,
     "segments": [
       {
-        "start": 0,
+        "start": 137,
         "duration": 16
       },
       {
-        "start": 9,
+        "start": 35,
         "duration": 11
       },
       {
-        "start": 10,
+        "start": 86,
         "duration": 5.4
       }
-    ]
+    ],
+    "edits": "Real recorded views, selected and reordered with one-second crossfades. Muted, resized and re-encoded at 30 fps. No generated perspectives or digital zoom-out substitute."
+  },
+  {
+    "id": "towerbridge",
+    "name": "Tower Bridge",
+    "sources": [
+      {
+        "title": "File:Tower Bridge - engine 1.ogv",
+        "artist": "putnik",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_-_engine_1.ogv",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "title": "File:Tower Bridge London 3 2013-07-02.ogv",
+        "artist": "FASTILY",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_3_2013-07-02.ogv",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    ],
+    "angleDescription": "You began in its engine rooms with the old steam machinery, then saw the opening bridge and its recognizable towers and span.",
+    "license": "CC BY-SA 4.0",
+    "duration": 30.4,
+    "segments": [
+      {
+        "start": 4,
+        "duration": 16
+      },
+      {
+        "start": 16,
+        "duration": 11
+      },
+      {
+        "start": 0,
+        "duration": 5.4
+      }
+    ],
+    "edits": "Real recorded views, selected and reordered with one-second crossfades. Muted, resized and re-encoded at 30 fps. No generated perspectives or digital zoom-out substitute."
   }
 ]

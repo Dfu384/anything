@@ -1,16 +1,22 @@
 [
   {
-    "id": "eiffel",
-    "name": "Eiffel Tower",
+    "id": "sagrada",
+    "name": "Sagrada Familia",
     "aliases": [
-      "eiffel tower",
-      "eiffel",
-      "the eiffel tower",
-      "tour eiffel"
+      "sagrada familia",
+      "la sagrada familia",
+      "sagrada",
+      "gaudi church",
+      "gaudi basilica",
+      "basilica of the sagrada familia",
+      "sagrada familia barcelona",
+      "the sagrada familia",
+      "sagrada familia basilica",
+      "barcelona sagrada familia"
     ],
-    "angleDescription": "You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.",
-    "video": "/media/videos/eiffel.mp4",
-    "poster": "/media/videos/eiffel.jpg",
+    "angleDescription": "You began among its branching interior columns, then saw architectural details before the characteristic spires.",
+    "video": "/media/videos/sagrada.mp4",
+    "poster": "/media/videos/sagrada.jpg",
     "clues": [
       {
         "at": 0,
@@ -27,17 +33,18 @@
     ]
   },
   {
-    "id": "liberty",
-    "name": "Statue of Liberty",
+    "id": "stonehenge",
+    "name": "Stonehenge",
     "aliases": [
-      "statue of liberty",
-      "lady liberty",
-      "liberty statue",
-      "the statue of liberty"
+      "stonehenge",
+      "stone henge",
+      "the stonehenge",
+      "stonehenge monument",
+      "stonehenge circle"
     ],
-    "angleDescription": "You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.",
-    "video": "/media/videos/liberty.mp4",
-    "poster": "/media/videos/liberty.jpg",
+    "angleDescription": "You began with a close view of the Heel Stone, then saw the monument from above before its familiar standing-stone arrangement.",
+    "video": "/media/videos/stonehenge.mp4",
+    "poster": "/media/videos/stonehenge.jpg",
     "clues": [
       {
         "at": 0,
@@ -54,17 +61,17 @@
     ]
   },
   {
-    "id": "goldengate",
-    "name": "Golden Gate Bridge",
+    "id": "towerbridge",
+    "name": "Tower Bridge",
     "aliases": [
-      "golden gate bridge",
-      "golden gate",
-      "the golden gate bridge",
-      "goldengatebridge"
+      "tower bridge",
+      "the tower bridge",
+      "tower bridge london",
+      "london tower bridge"
     ],
-    "angleDescription": "You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.",
-    "video": "/media/videos/goldengate.mp4",
-    "poster": "/media/videos/goldengate.jpg",
+    "angleDescription": "You began in its engine rooms with the old steam machinery, then saw the opening bridge and its recognizable towers and span.",
+    "video": "/media/videos/towerbridge.mp4",
+    "poster": "/media/videos/towerbridge.jpg",
     "clues": [
       {
         "at": 0,

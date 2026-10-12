@@ -1,35 +1,33 @@
-# Hard-angle landmark video collection
+# Explorer landmark collection
 
-The footage shows genuine camera viewpoints. No fabricated perspective warps, zoom-out reveals or 3D renders. Excerpts are muted, resized and re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge use one-second crossfades between recorded views, rather than pretending to be a single camera path.
+Current subjects: Sagrada Familia, Stonehenge and Tower Bridge. The collection balances globally recognizable travel landmarks with a less obvious opening view. Clips are real recordings, trimmed, reordered, muted and re-encoded at 30 fps with one-second crossfades. No unrelated landmarks, generated perspectives or digital zoom-out substitutes are used.
 
-## Eiffel Tower
+## Sagrada Familia
 
-Adapted reveal license: CC BY-SA 4.0.
+You began among its branching interior columns, then saw architectural details before the characteristic spires.
 
-You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.
+Adapted clip: CC BY-SA 4.0.
 
-- File:Eiffel Tower lift - mute.webm — Christopher.Michel from San Francisco, USA; CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Eiffel_Tower_lift_-_mute.webm. License: https://creativecommons.org/licenses/by/2.0.
-- File:Eiffel Tower Drone 4k-Qx c1X3zfEc-313-251.webm — the Dronalist; CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Drone_4k-Qx_c1X3zfEc-313-251.webm. License: https://creativecommons.org/licenses/by/3.0.
-- File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm — Mikani; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm. License: https://creativecommons.org/licenses/by-sa/4.0.
+- File:SagradaFamilia.ogv — Ian Sewell; CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:SagradaFamilia.ogv. License: https://creativecommons.org/licenses/by-sa/3.0.
 
-## Statue of Liberty
+## Stonehenge
 
-Adapted reveal license: CC BY 3.0.
+You began with a close view of the Heel Stone, then saw the monument from above before its familiar standing-stone arrangement.
 
-You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.
+Adapted clip: CC BY-SA 4.0.
 
-- File:Statue Of Liberty 4k Drone.webm — the Dronalist; CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:Statue_Of_Liberty_4k_Drone.webm. License: https://creativecommons.org/licenses/by/3.0.
+- File:Stonehenge.ogv — McKarri at de.wikipedia; CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Stonehenge.ogv. License: https://creativecommons.org/licenses/by-sa/3.0/.
+- File:Stonehenge at Sunrise - by Drone..webm — Benjamin Kenobi; CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm. License: https://creativecommons.org/licenses/by/3.0.
 
-## Golden Gate Bridge
+## Tower Bridge
 
-Adapted reveal license: CC BY-SA 4.0.
+You began in its engine rooms with the old steam machinery, then saw the opening bridge and its recognizable towers and span.
 
-You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.
+Adapted clip: CC BY-SA 4.0.
 
-- File:Drive over Golden Gate Bridge 2013.ogv — Tuxyso; CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Drive_over_Golden_Gate_Bridge_2013.ogv. License: https://creativecommons.org/licenses/by-sa/3.0.
-- File:Sunset under the Golden Gate Bridge, February 10 2025.webm — SnowShoes8; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Sunset_under_the_Golden_Gate_Bridge,_February_10_2025.webm. License: https://creativecommons.org/licenses/by-sa/4.0.
-- File:Golden Gate Bridge Timelapse.webm — Eugenia Loli; CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Timelapse.webm. License: https://creativecommons.org/licenses/by/3.0.
+- File:Tower Bridge - engine 1.ogv — putnik; CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Tower_Bridge_-_engine_1.ogv. License: https://creativecommons.org/licenses/by/4.0.
+- File:Tower Bridge London 3 2013-07-02.ogv — FASTILY; CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_3_2013-07-02.ogv. License: https://creativecommons.org/licenses/by-sa/3.0.
 
-The ShareAlike composites are released under CC BY-SA 4.0. Original component licenses and credit remain recorded above and in sources.json. Source licenses include their respective warranty disclaimers. No author endorsement is implied.
+Source links, excerpt timings and editing details are also in sources.json. All original credit is retained. Adapted ShareAlike clips are released under CC BY-SA 4.0. No author endorsement is implied; source license warranty disclaimers apply.
 
-Earlier landmark clips remain in classic/ under their original licenses; their source metadata is in classic/sources.json. Earlier Amazon Berkeley Objects archive photos retain their CC BY 4.0 credits in ../SOURCES.md.
+Previous iconic hard-angle clips are preserved in iconic/; the original easier videos are in classic/. Their credits and licenses are retained. Older object-photo archives retain their Amazon Berkeley Objects attribution in ../SOURCES.md.

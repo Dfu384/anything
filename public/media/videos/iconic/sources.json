@@ -1,0 +1,115 @@
+[
+  {
+    "id": "eiffel",
+    "name": "Eiffel Tower",
+    "angleDescription": "You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.",
+    "license": "CC BY-SA 4.0",
+    "sources": [
+      {
+        "title": "File:Eiffel Tower lift - mute.webm",
+        "artist": "Christopher.Michel from San Francisco, USA",
+        "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_lift_-_mute.webm",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      },
+      {
+        "title": "File:Eiffel Tower Drone 4k-Qx c1X3zfEc-313-251.webm",
+        "artist": "the Dronalist",
+        "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Drone_4k-Qx_c1X3zfEc-313-251.webm",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      },
+      {
+        "title": "File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm",
+        "artist": "Mikani",
+        "source": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "duration": 30.4,
+    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "segments": [
+      {
+        "start": 0,
+        "duration": 16
+      },
+      {
+        "start": 173,
+        "duration": 11
+      },
+      {
+        "start": 8,
+        "duration": 5.4
+      }
+    ]
+  },
+  {
+    "id": "liberty",
+    "name": "Statue of Liberty",
+    "angleDescription": "You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.",
+    "license": "CC BY 3.0",
+    "sources": [
+      {
+        "title": "File:Statue Of Liberty 4k Drone.webm",
+        "artist": "the Dronalist",
+        "source": "https://commons.wikimedia.org/wiki/File:Statue_Of_Liberty_4k_Drone.webm",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
+    ],
+    "duration": 30.4,
+    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "segments": [
+      {
+        "start": 122,
+        "duration": 30.4
+      }
+    ]
+  },
+  {
+    "id": "goldengate",
+    "name": "Golden Gate Bridge",
+    "angleDescription": "You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.",
+    "license": "CC BY-SA 4.0",
+    "sources": [
+      {
+        "title": "File:Drive over Golden Gate Bridge 2013.ogv",
+        "artist": "Tuxyso",
+        "source": "https://commons.wikimedia.org/wiki/File:Drive_over_Golden_Gate_Bridge_2013.ogv",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      {
+        "title": "File:Sunset under the Golden Gate Bridge, February 10 2025.webm",
+        "artist": "SnowShoes8",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunset_under_the_Golden_Gate_Bridge,_February_10_2025.webm",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      {
+        "title": "File:Golden Gate Bridge Timelapse.webm",
+        "artist": "Eugenia Loli",
+        "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Timelapse.webm",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
+    ],
+    "duration": 30.366667,
+    "edits": "Selected genuine viewpoints; trimmed, muted, resized, re-encoded at 30 fps. Eiffel Tower and Golden Gate Bridge have 1-second crossfades between different recorded views. No perspective warps, digital zoom-outs or 3D renders.",
+    "segments": [
+      {
+        "start": 0,
+        "duration": 16
+      },
+      {
+        "start": 9,
+        "duration": 11
+      },
+      {
+        "start": 10,
+        "duration": 5.4
+      }
+    ]
+  }
+]

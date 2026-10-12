@@ -1,58 +1,42 @@
 [
   {
-    "name": "Eiffel Tower",
-    "title": "File:Eiffel Tower lift - mute.webm",
-    "artist": "Christopher.Michel from San Francisco, USA",
-    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_lift_-_mute.webm",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
-  },
-  {
-    "name": "Eiffel Tower",
-    "title": "File:Eiffel Tower Drone 4k-Qx c1X3zfEc-313-251.webm",
-    "artist": "the Dronalist",
-    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_Drone_4k-Qx_c1X3zfEc-313-251.webm",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
-  },
-  {
-    "name": "Eiffel Tower",
-    "title": "File:Rushes Eiffel Tower from Champ-de-Mars by Mikani.webm",
-    "artist": "Mikani",
-    "source": "https://commons.wikimedia.org/wiki/File:Rushes_Eiffel_Tower_from_Champ-de-Mars_by_Mikani.webm",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-  },
-  {
-    "name": "Statue of Liberty",
-    "title": "File:Statue Of Liberty 4k Drone.webm",
-    "artist": "the Dronalist",
-    "source": "https://commons.wikimedia.org/wiki/File:Statue_Of_Liberty_4k_Drone.webm",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
-  },
-  {
-    "name": "Golden Gate Bridge",
-    "title": "File:Drive over Golden Gate Bridge 2013.ogv",
-    "artist": "Tuxyso",
-    "source": "https://commons.wikimedia.org/wiki/File:Drive_over_Golden_Gate_Bridge_2013.ogv",
+    "name": "Sagrada Familia",
+    "title": "File:SagradaFamilia.ogv",
+    "artist": "Ian Sewell",
+    "source": "https://commons.wikimedia.org/wiki/File:SagradaFamilia.ogv",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
-    "name": "Golden Gate Bridge",
-    "title": "File:Sunset under the Golden Gate Bridge, February 10 2025.webm",
-    "artist": "SnowShoes8",
-    "source": "https://commons.wikimedia.org/wiki/File:Sunset_under_the_Golden_Gate_Bridge,_February_10_2025.webm",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "name": "Stonehenge",
+    "title": "File:Stonehenge.ogv",
+    "artist": "McKarri at de.wikipedia",
+    "source": "https://commons.wikimedia.org/wiki/File:Stonehenge.ogv",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   {
-    "name": "Golden Gate Bridge",
-    "title": "File:Golden Gate Bridge Timelapse.webm",
-    "artist": "Eugenia Loli",
-    "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Timelapse.webm",
+    "name": "Stonehenge",
+    "title": "File:Stonehenge at Sunrise - by Drone..webm",
+    "artist": "Benjamin Kenobi",
+    "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "name": "Tower Bridge",
+    "title": "File:Tower Bridge - engine 1.ogv",
+    "artist": "putnik",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_-_engine_1.ogv",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "name": "Tower Bridge",
+    "title": "File:Tower Bridge London 3 2013-07-02.ogv",
+    "artist": "FASTILY",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_3_2013-07-02.ogv",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 ]

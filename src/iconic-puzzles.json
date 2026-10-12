@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eiffel",
+    "name": "Eiffel Tower",
+    "aliases": [
+      "eiffel tower",
+      "eiffel",
+      "the eiffel tower",
+      "tour eiffel"
+    ],
+    "angleDescription": "You began among the girders inside its lift, then saw the tower from high above before the familiar exterior.",
+    "video": "/media/videos/iconic/eiffel.mp4",
+    "poster": "/media/videos/iconic/eiffel.jpg",
+    "clues": [
+      {
+        "at": 0,
+        "label": "UNFAMILIAR VIEW"
+      },
+      {
+        "at": 15,
+        "label": "MORE CONTEXT"
+      },
+      {
+        "at": 26,
+        "label": "FINAL VIEW"
+      }
+    ]
+  },
+  {
+    "id": "liberty",
+    "name": "Statue of Liberty",
+    "aliases": [
+      "statue of liberty",
+      "lady liberty",
+      "liberty statue",
+      "the statue of liberty"
+    ],
+    "angleDescription": "You began at the stone pedestal, then moved up its robes and over the crown before the familiar torch and face.",
+    "video": "/media/videos/iconic/liberty.mp4",
+    "poster": "/media/videos/iconic/liberty.jpg",
+    "clues": [
+      {
+        "at": 0,
+        "label": "UNFAMILIAR VIEW"
+      },
+      {
+        "at": 15,
+        "label": "MORE CONTEXT"
+      },
+      {
+        "at": 26,
+        "label": "FINAL VIEW"
+      }
+    ]
+  },
+  {
+    "id": "goldengate",
+    "name": "Golden Gate Bridge",
+    "aliases": [
+      "golden gate bridge",
+      "golden gate",
+      "the golden gate bridge",
+      "goldengatebridge"
+    ],
+    "angleDescription": "You began looking sideways through its cables from a passing car, then saw a sunset silhouette and the familiar red span.",
+    "video": "/media/videos/iconic/goldengate.mp4",
+    "poster": "/media/videos/iconic/goldengate.jpg",
+    "clues": [
+      {
+        "at": 0,
+        "label": "UNFAMILIAR VIEW"
+      },
+      {
+        "at": 15,
+        "label": "MORE CONTEXT"
+      },
+      {
+        "at": 26,
+        "label": "FINAL VIEW"
+      }
+    ]
+  }
+]
